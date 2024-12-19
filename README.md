@@ -1,6 +1,6 @@
 ## Descripción
 
-**makipad** es un macro keypad diseñado por mí, [Clito](https://github.com/Cli7o) y potenciado por el firmware QMK. Con una amplia personalización y una experiencia de usuario mejorada, **makipad** es perfecto para programadores, gamers y cualquier persona que busque eficiencia en su flujo de trabajo.
+**Makipad** es un macro keypad diseñado por mí, [Clito](https://github.com/Cli7o) y potenciado por el firmware QMK. Con una amplia personalización y una experiencia de usuario mejorada, **makipad** es perfecto para programadores, gamers y cualquier persona que busque eficiencia en su flujo de trabajo.
 Dicho trabajo ha sido realizado para la mejora de calificación en la asignatura Sistemas de Adquisición y Control, del grado de Diseño de Videojuegos en la Universidad de Burgos.
 
 ## Características
