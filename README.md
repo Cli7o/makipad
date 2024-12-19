@@ -21,7 +21,7 @@ Dicho trabajo ha sido realizado para la mejora de calificación en la asignatura
     ```sh
     cd makipad
     ```
-3. Compila el firmware QMK:
+3. Compila el firmware QMK dentro de QMK MSYS:
     ```sh
     qmk compile -kb makipad -km default
     ```
